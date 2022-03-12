@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pendragon6
+- 👋 Hello! I’m Pendragon
 - 👀 I’m interested in CrossFit, reading and coding 
 - 🌱 I’m currently learning JavaScipt
 - 💞️ I’m not looking to collaborate on anything right now
